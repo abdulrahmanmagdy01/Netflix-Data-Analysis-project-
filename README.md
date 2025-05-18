@@ -11,9 +11,9 @@ This project explores and analyzes Netflix’s content dataset to uncover insigh
 - Specific content filters (e.g., by actor, country, release period)
 
 ## 🧰 Tools Used:
+- Microsoft Excel
 - SQL Server
-- Microsoft SQL Management Studio (SSMS) / Azure Data Studio
-- Git for version control
+- Microsoft SQL Management Studio (SSMS)
 
 ## 📁 Dataset:
 - The dataset is based on the public **Netflix Titles** dataset from [Kaggle](https://www.kaggle.com/shivamb/netflix-shows), which includes:
